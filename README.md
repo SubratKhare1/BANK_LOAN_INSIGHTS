@@ -1,4 +1,4 @@
-# Bank_Loan_Analysis_Project
+# Bank_Loan_Analysis_Project [Power BI| SQL| Excel]
 
 1) Created a Power BI dashboard to analyse bank loans over the years.
 2) Gathered data on bank loans, including loan details, amounts, types, and interest rates.
