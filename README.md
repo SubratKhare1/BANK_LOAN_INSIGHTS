@@ -2,6 +2,7 @@
 
 Introducing an innovative project unveiling bank loan insights from recent years. Explore a comprehensive analysis encompassing loan amounts, repayment statuses, application types, interest rates, and more. Uncover valuable insights to inform strategic decisions in a concise, data-driven manner.
 
+
 This project aims to create a comprehensive report tailored for pizza lovers.
 
 1.Building a strong data foundation.
@@ -11,6 +12,8 @@ This project aims to create a comprehensive report tailored for pizza lovers.
 3.Providing detailed insights for thorough analysis.
 
 4.Enhancing data presentation with dynamic visuals.
+
+
 
 Throughout this project, I've honed various skills:
 
